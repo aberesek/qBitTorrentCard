@@ -1,0 +1,25 @@
+{
+    "states": {
+      "downloading": "Downloading",
+      "seeding": "Seeding",
+      "stalledUP": "Seeding (stalled)",
+      "pausedDL": "Paused (download)",
+      "pausedUP": "Paused (upload)",
+      "queuedDL": "Queued (download)",
+      "queuedUP": "Queued (upload)",
+      "checkingDL": "Checking (download)",
+      "checkingUP": "Checking (upload)",
+      "checkingResumeData": "Checking resume data",
+      "moving": "Moving",
+      "missingFiles": "Missing files",
+      "error": "Error",
+      "unknown": "Unknown"
+    },
+    "ui": {
+      "no_downloads": "No active downloads",
+      "remaining_time": "Remaining time:",
+      "config_error": "Configuration error",
+      "entity_not_found": "Entity not found",
+      "failed_to_load": "Failed to load torrents"
+    }
+  }
