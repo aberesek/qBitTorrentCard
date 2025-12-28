@@ -1,0 +1,28 @@
+{
+    "states": {
+      "downloading": "Letöltés",
+      "seeding": "Seedelés",
+      "uploading": "Seedelés",
+      "stalledUP": "Seedelés (várakozik)",
+      "pausedDL": "Szüneteltetve (letöltés)",
+      "pausedUP": "Szüneteltetve (feltöltés)",
+      "queuedDL": "Sorban (letöltés)",
+      "queuedUP": "Sorban (feltöltés)",
+      "checkingDL": "Ellenőrzés (letöltés)",
+      "checkingUP": "Ellenőrzés (feltöltés)",
+      "checkingResumeData": "Adatok ellenőrzése",
+      "moving": "Mozgatás",
+      "missingFiles": "Hiányzó fájlok",
+      "error": "Hiba",
+      "unknown": "Ismeretlen"
+    },
+    "ui": {
+      "no_downloads": "Nincsenek aktív letöltések",
+      "remaining_time": "Hátralévő idő:",
+      "config_error": "Konfigurációs hiba",
+      "entity_not_found": "Entitás nem található",
+      "failed_to_load": "Nem sikerült betölteni a torrenteket"
+    }
+  }
+
+
